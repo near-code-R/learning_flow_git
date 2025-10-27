@@ -1,6 +1,6 @@
 const person = {
     name: 'jhoni',
-    age: 13,
+    age: 17,
     address: {
         postalCode: 23312,
         city: 'bandung'
@@ -8,6 +8,8 @@ const person = {
     contact: {
         email: "jjkadka@gmail.com",
         phone: "+628900342423",
-        facebook: "sdasda.com"
+        facebook: "sdasda.com",
+
+
     }
 };
