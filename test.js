@@ -1,8 +1,8 @@
 const person = {
     name: 'jhoni',
-    age: 13,
+    age: 10,
     address: {
         postalCode: 23312,
-        city: 'bandung'
+        city: 'bandung11'
     }
 }
