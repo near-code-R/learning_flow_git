@@ -26,6 +26,7 @@ function sum(nums) {
     return nums;
 }
 function palindrom(str) {
-    const splites = str
+    const splites = str;
+    const misal = ''
     return str;
 }
