@@ -25,3 +25,6 @@ const cars = {
 function sum(nums) {
     return nums;
 }
+function palindrom(str) {
+    return str;
+}
