@@ -21,3 +21,7 @@ const cars = {
     color: "blue",
     carType: "buss"
 }
+
+function sum(nums) {
+    return nums;
+}
