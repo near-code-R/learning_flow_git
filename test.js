@@ -13,3 +13,9 @@ const person = {
 
     }
 };
+
+const cars = {
+    name: "misal",
+    brand: "toyota",
+    weight: "120kg"
+}
